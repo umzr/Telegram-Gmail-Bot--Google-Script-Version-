@@ -89,6 +89,13 @@ The bot will send message to Telegram automatically.
     A:  沒有offer 的 31 天  
     A: no intern offer 31 days
 
+6. Q: How to support me for this project?  
+    A: buy me some coffee:  
+    (BTC native segwit)  
+     - `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd` 
+
+    
+
 # Keyword
 Telegram  BOT  IFTTT  TradingView Alert  Alarm  
 
